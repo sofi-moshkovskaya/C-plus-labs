@@ -1,1 +1,1 @@
-# C-plus-labs
+# C++-labs

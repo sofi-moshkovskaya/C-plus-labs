@@ -1,0 +1,5 @@
+STUDENT		Surname:  Ivanov	Name:  Ivan	Patronymic:  Ivanovich
+STUDENT		Surname:  Petrov	Name:  Petro	Patronymic:  Petrovich
+STUDENT		Surname:  Konnova	Name:  Olga	Patronymic:  Viktorovna
+STUDENT		Surname:  Moshkovskaya	Name:  Sophia	Patronymic:  Pavlovna
+STUDENT		Surname:  Dubrovskaya	Name:  Angelina	Patronymic:  Vladimirovna
